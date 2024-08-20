@@ -13,7 +13,7 @@ draw_image.rectangle((200,200,300,300), fill =(122,122,122))
 #draw.rectangle((200,200,300,300), fill =(255,0,0))
 
 image.show()
+#That'll show the image on the screen.
 
 image.save("image.png")
-# And that'll show the image
-
+#On the other hand that one will save the image to image.png
